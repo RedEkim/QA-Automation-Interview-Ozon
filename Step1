@@ -15,6 +15,7 @@
 27.07.2026 - 1 hour https://developer.mozilla.org/ru/docs/Web/HTTP/Guides/Overview
 28.07.2026 - 1 hour https://developer.mozilla.org/ru/docs/Web/HTTP/Guides/Overview
 https://developer.mozilla.org/ru/docs/Web/API/Fetch_API
+https://developer.mozilla.org/ru/docs/Web/HTTP/Reference/Headers
 
 Недели 4-6 (11.08 - 31.08) | gRPC & Сетевая архитектура:
  * [ ] Изучить архитектуру gRPC и Protocol Buffers (.proto-файлы).
