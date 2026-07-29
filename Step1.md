@@ -33,7 +33,8 @@
 - [Habr: Что такое REST API](https://habr.com/ru/articles/483202/)
 
 2 hour
-
+- [Habr: Что такое REST API](https://habr.com/ru/articles/483202/)
+- [Различия REST и SOAP](https://habr.com/ru/articles/483204/)
 Недели 4-6 (11.08 - 31.08) | gRPC & Сетевая архитектура:
  * [ ] Изучить архитектуру gRPC и Protocol Buffers (.proto-файлы).
  * [ ] Понять отличия gRPC от REST (Protobuf vs JSON, HTTP/2 vs HTTP/1.1, бинарность, стриминг).
