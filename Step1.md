@@ -35,6 +35,7 @@
 2 hour
 - [Habr: Что такое REST API](https://habr.com/ru/articles/483202/)
 - [Различия REST и SOAP](https://habr.com/ru/articles/483204/)
+- [Разработка REST API — что такое Contract First?](https://habr.com/ru/articles/483206/)
 
   
 Недели 4-6 (11.08 - 31.08) | gRPC & Сетевая архитектура:
