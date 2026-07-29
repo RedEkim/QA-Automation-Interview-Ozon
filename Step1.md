@@ -13,22 +13,26 @@
  * [ ] ПРАКТИКА: Погонять запросы через Postman / Insomnia по публичным REST API.
 
 27.07.2026 
+
 1 hour 
 - https://developer.mozilla.org/ru/docs/Web/HTTP/Guides/Overview
 
 28.07.2026 
+
 1 hour 
 - https://developer.mozilla.org/ru/docs/Web/HTTP/Guides/Overview
 - https://developer.mozilla.org/ru/docs/Web/API/Fetch_API
 - https://developer.mozilla.org/ru/docs/Web/HTTP/Reference/Headers
 
 29.07.2027 
+
 1 hour
 - https://http.cat/ 
 - https://httpstatuses.io/
 - [MDN: Идемпотентные методы HTTP — кратко и четко о том, почему PUT и DELETE идемпотентны, а POST — нет](https://developer.mozilla.org/ru/docs/Glossary/Idempotent)
 - [Habr: Что такое REST API](https://habr.com/ru/articles/483202/)
-- 2 hour
+
+2 hour
 
 Недели 4-6 (11.08 - 31.08) | gRPC & Сетевая архитектура:
  * [ ] Изучить архитектуру gRPC и Protocol Buffers (.proto-файлы).
