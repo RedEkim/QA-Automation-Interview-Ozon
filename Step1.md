@@ -4,11 +4,11 @@
 
 Недели 1-3 (21.07 - 10.08) | Сети, HTTP/HTTPS & REST:
 
- * [ ] Изучить структуру HTTP-запроса и ответа (Start line, Headers, Body).
- * [ ] Выучить ключевые заголовки: Host, Authorization, Content-Type, Cache-Control, Cookie.
- * [ ] Выучить ответы и категории статус-кодов (2xx, 3xx, 4xx, 5xx).
+ * [x] Изучить структуру HTTP-запроса и ответа (Start line, Headers, Body).
+ * [x] Выучить ключевые заголовки: Host, Authorization, Content-Type, Cache-Control, Cookie.
+ * [x] Выучить ответы и категории статус-кодов (2xx, 3xx, 4xx, 5xx).
  * [ ] Разработать полное понимание методов REST (GET, POST, PUT, PATCH, DELETE).
- * [ ] Разобрать понятие идемпотентности методов HTTP.
+ * [x] Разобрать понятие идемпотентности методов HTTP.
  * [ ] Изучить механизмы авторизации: Cookie/Session vs JWT (Header, Payload, Signature).
  * [ ] ПРАКТИКА: Погонять запросы через Postman / Insomnia по публичным REST API.
 
