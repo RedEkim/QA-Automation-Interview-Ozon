@@ -7,7 +7,7 @@
  * [x] Изучить структуру HTTP-запроса и ответа (Start line, Headers, Body).
  * [x] Выучить ключевые заголовки: Host, Authorization, Content-Type, Cache-Control, Cookie.
  * [x] Выучить ответы и категории статус-кодов (2xx, 3xx, 4xx, 5xx).
- * [ ] Разработать полное понимание методов REST (GET, POST, PUT, PATCH, DELETE).
+ * [x] Разработать полное понимание методов REST (GET, POST, PUT, PATCH, DELETE).
  * [x] Разобрать понятие идемпотентности методов HTTP.
  * [ ] Изучить механизмы авторизации: Cookie/Session vs JWT (Header, Payload, Signature).
  * [ ] ПРАКТИКА: Погонять запросы через Postman / Insomnia по публичным REST API.
@@ -38,6 +38,14 @@
 - [Разработка REST API — что такое Contract First?](https://habr.com/ru/articles/483206/)
 - [Разработка REST API — что такое Code First подход?](https://habr.com/ru/articles/483322/)
 
+30.07.2026
+
+1 hour
+- [REST API — Что такое HATEOAS?](https://habr.com/ru/articles/483328/)
+- [Рекомендации по REST API — примеры проектирования веб-сервисов на Java и Spring](https://habr.com/ru/articles/483374/)
+
+2 hour
+- [Рекомендации по REST API — примеры проектирования веб-сервисов на Java и Spring](https://habr.com/ru/articles/483374/)
   
 Недели 4-6 (11.08 - 31.08) | gRPC & Сетевая архитектура:
  * [ ] Изучить архитектуру gRPC и Protocol Buffers (.proto-файлы).
