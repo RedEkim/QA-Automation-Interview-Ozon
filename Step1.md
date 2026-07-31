@@ -48,6 +48,12 @@
 - [Рекомендации по REST API — примеры проектирования веб-сервисов на Java и Spring](https://habr.com/ru/articles/483374/)
 - [jwt.io — официальный сайт и интерактивный отладчик JWT. Вставляешь токен и сразу видишь его структуру (Header, Payload, Signature).](https://www.jwt.io/)
 - [Подробно про JWT](https://habr.com/ru/articles/842056/)
+
+31.07.2026
+
+1 hour
+- [Подробно про JWT](https://habr.com/ru/articles/842056/)
+- [JWT-токены от и до. Разбираемся с JSON Web Tokens и атаками на них](https://xakep.ru/2024/08/07/jwt-deep-dive/)
   
 Недели 4-6 (11.08 - 31.08) | gRPC & Сетевая архитектура:
  * [ ] Изучить архитектуру gRPC и Protocol Buffers (.proto-файлы).
