@@ -54,6 +54,10 @@
 1 hour
 - [Подробно про JWT](https://habr.com/ru/articles/842056/)
 - [JWT-токены от и до. Разбираемся с JSON Web Tokens и атаками на них](https://xakep.ru/2024/08/07/jwt-deep-dive/)
+- [Introduction to JSON Web Tokens](https://www.jwt.io/introduction#what-is-json-web-token)
+
+2 hour
+- te
   
 Недели 4-6 (11.08 - 31.08) | gRPC & Сетевая архитектура:
  * [ ] Изучить архитектуру gRPC и Protocol Buffers (.proto-файлы).
