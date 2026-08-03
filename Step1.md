@@ -9,7 +9,7 @@
  * [x] Выучить ответы и категории статус-кодов (2xx, 3xx, 4xx, 5xx).
  * [x] Разработать полное понимание методов REST (GET, POST, PUT, PATCH, DELETE).
  * [x] Разобрать понятие идемпотентности методов HTTP.
- * [ ] Изучить механизмы авторизации: Cookie/Session vs JWT (Header, Payload, Signature).
+ * [x] Изучить механизмы авторизации: Cookie/Session vs JWT (Header, Payload, Signature).
  * [ ] ПРАКТИКА: Погонять запросы через Postman / Insomnia по публичным REST API.
 
 27.07.2026 
