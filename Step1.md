@@ -56,8 +56,17 @@
 - [JWT-токены от и до. Разбираемся с JSON Web Tokens и атаками на них](https://xakep.ru/2024/08/07/jwt-deep-dive/)
 - [Introduction to JSON Web Tokens](https://www.jwt.io/introduction#what-is-json-web-token)
 
+03.08.2026
+
+1 hour
+- [Introduction to JSON Web Tokens](https://www.jwt.io/introduction#what-is-json-web-token)
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+- [ReqRes.in](https://reqres.in/)
+- [DummyJSON](https://dummyjson.com/)
+- [Postman Learning Center](https://learning.postman.com/docs/getting-started/quick-start/)
+
 2 hour
-- te
+- test
   
 Недели 4-6 (11.08 - 31.08) | gRPC & Сетевая архитектура:
  * [ ] Изучить архитектуру gRPC и Protocol Buffers (.proto-файлы).
