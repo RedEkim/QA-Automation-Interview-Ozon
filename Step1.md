@@ -65,8 +65,14 @@
 - [DummyJSON](https://dummyjson.com/)
 - [Postman Learning Center](https://learning.postman.com/docs/getting-started/quick-start/)
 
-2 hour
-- test
+05.08.2026
+
+1 hour
+- ПРАКТИКА: Погонять запросы через Postman / Insomnia по публичным REST API.
+  - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+  - [ReqRes.in](https://reqres.in/)
+  - [DummyJSON](https://dummyjson.com/)
+  - [Postman Learning Center](https://learning.postman.com/docs/getting-started/quick-start/)
   
 Недели 4-6 (11.08 - 31.08) | gRPC & Сетевая архитектура:
  * [ ] Изучить архитектуру gRPC и Protocol Buffers (.proto-файлы).
