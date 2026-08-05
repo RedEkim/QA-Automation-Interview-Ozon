@@ -70,9 +70,13 @@
 1 hour
 - ПРАКТИКА: Погонять запросы через Postman / Insomnia по публичным REST API.
   - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+    - Идеален для старта. Есть эндпоинты для GET, POST, PUT, PATCH, DELETE. 
   - [ReqRes.in](https://reqres.in/)
+    - Отличный эмулятор REST API, на котором удобно тренировать отправку POST-запросов с авторизацией, работу с токенами и проверку статус-кодов (200, 201, 400, 404). 
   - [DummyJSON](https://dummyjson.com/)
+    - Более богатый сервис: есть эндпоинты товаров, корзины, пользователей и рабочая авторизация через JWT (/auth/login).
   - [Postman Learning Center](https://learning.postman.com/docs/getting-started/quick-start/)
+    - Официальный гайд по работе с Postman (создание коллекций, передача заголовков и параметров).
   
 Недели 4-6 (11.08 - 31.08) | gRPC & Сетевая архитектура:
  * [ ] Изучить архитектуру gRPC и Protocol Buffers (.proto-файлы).
