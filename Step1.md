@@ -77,6 +77,11 @@
     - Более богатый сервис: есть эндпоинты товаров, корзины, пользователей и рабочая авторизация через JWT (/auth/login).
   - [Postman Learning Center](https://learning.postman.com/docs/getting-started/quick-start/)
     - Официальный гайд по работе с Postman (создание коллекций, передача заголовков и параметров).
+   
+06.08.2026
+- ПРАКТИКА: Погонять запросы через Insomnia по публичным REST API.
+  - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+    - Идеален для старта. Есть эндпоинты для GET, POST, PUT, PATCH, DELETE. 
   
 Недели 4-6 (11.08 - 31.08) | gRPC & Сетевая архитектура:
  * [ ] Изучить архитектуру gRPC и Protocol Buffers (.proto-файлы).
