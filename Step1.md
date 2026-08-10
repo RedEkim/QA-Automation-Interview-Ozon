@@ -2,7 +2,7 @@
 ЭТАП 1: BACKEND, СЕТИ & БАЗЫ ДАННЫХ (21.07.2026 — 25.10.2026)
 --------------------------------------------------------------------------------
 
-Недели 1-3 (21.07 - 10.08) | Сети, HTTP/HTTPS & REST:
+Недели 1-3 (21.07 - 09.08) | Сети, HTTP/HTTPS & REST:
 
  * [x] Изучить структуру HTTP-запроса и ответа (Start line, Headers, Body).
  * [x] Выучить ключевые заголовки: Host, Authorization, Content-Type, Cache-Control, Cookie.
@@ -100,11 +100,60 @@
   - [DummyJSON](https://dummyjson.com/)
     - Более богатый сервис: есть эндпоинты товаров, корзины, пользователей и рабочая авторизация через JWT (/auth/login).
 
-Недели 4-6 (11.08 - 31.08) | gRPC & Сетевая архитектура:
+Недели 4-6 (10.08 - 30.08) | gRPC & Сетевая архитектура:
  * [ ] Изучить архитектуру gRPC и Protocol Buffers (.proto-файлы).
  * [ ] Понять отличия gRPC от REST (Protobuf vs JSON, HTTP/2 vs HTTP/1.1, бинарность, стриминг).
  * [ ] Пошагово разложить ответ на вопрос: "Что происходит, когда вы вводите google.com в адресную строку?" (DNS -> TCP 3-way handshake -> TLS -> HTTP -> DOM/CSSOM -> Render).
  * [ ] ПРАКТИКА: Пройти тренажер secret_trainer (GitHub), поработать с gRPC через BloomRPC/Postman.
+
+# 📚 Источники и материалы: Недели 4–6 (10.08 – 30.08)
+> **Тема:** gRPC, Protocol Buffers & Сетевая архитектура
+
+---
+
+## 1. gRPC, Protocol Buffers & отличие от REST
+
+- **[Официальная документация gRPC (grpc.io)](https://grpc.io/docs/what-is-grpc/introduction/)**
+  - *Ключевые темы:* Core Concepts (Unary, Server streaming, Client streaming, Bi-directional streaming).
+- **[Официальная документация Protocol Buffers (protobuf.dev)](https://protobuf.dev/overview/)**
+  - *Ключевые темы:* Синтаксис `proto3`, скалярные типы данных, сообщения (`message`), сервисы (`service`), нумерация полей.
+- **[Habr: «Как тестировать не-REST бэкенд (gRPC)»](https://habr.com/ru/companies/qiwi/articles/588639/)**
+  - Практический гайд от QIWI: разбор `.proto`-файлов, отличие gRPC от REST с точки зрения QA, нюансы тестирования.
+- **[Habr: «REST vs gRPC»](https://habr.com/ru/articles/543110/)**
+  - Сравнение протоколов: JSON vs Protobuf (бинарная сериализация), HTTP/1.1 vs HTTP/2 (мультиплексирование, одно TCP-соединение), производительность.
+
+---
+
+## 2. Разбор вопроса «Что происходит, когда вы вводите google.com?»
+
+- **[GitHub: alex/what-happens-when (Русский перевод)](https://github.com/alex/what-happens-when/blob/master/README-ru.md)**
+  - *Детальный алгоритм:*
+    1. **DNS:** Кэш браузера $\rightarrow$ ОС $\rightarrow$ `/etc/hosts` $\rightarrow$ Резолвер провайдера $\rightarrow$ Корневые DNS-серверы.
+    2. **TCP:** Трехэтапное рукопожатие (3-way handshake: `SYN` $\rightarrow$ `SYN-ACK` $\rightarrow$ `ACK`).
+    3. **TLS/SSL:** Рукопожатие безопасности (обмен сертификатами, ключами, шифрование).
+    4. **HTTP & DOM:** Запрос/ответ HTTP, парсинг HTML, построение DOM, CSSOM, Render Tree, Layout, Paint.
+- **[Linkmeup: «Сети для самых маленьких»](https://linkmeup.ru/blog/snm/)**
+  - Понятный разбор стека TCP/IP и транспортного уровня.
+
+---
+
+## 3. Практические инструменты и тренажеры
+
+- **[Postman gRPC Client](https://learning.postman.com/docs/sending-requests/grpc/grpc-client-overview/)** — встроенный клиент для импорта `.proto`-файлов и выполнения gRPC-вызовов.
+- **[Kreya](https://kreya.app/)** / **[BloomRPC](https://github.com/bloomrpc/bloomrpc)** — специализированные GUI-клиенты для работы с gRPC.
+- **[Публичный тестовый gRPC-сервер (grpcb.in)](https://grpcb.in/)** — онлайн-песочница для тестирования Unary и Streaming вызовов.
+- **[Тренажер secret_trainer на GitHub](https://github.com/search?q=secret_trainer+grpc)** — репозитории с упражнениями по тестированию gRPC.
+
+10.08.2026
+1 hour
+## 1. gRPC, Protocol Buffers & отличие от REST
+
+- **[Официальная документация gRPC (grpc.io)](https://grpc.io/docs/what-is-grpc/introduction/)**
+  - *Ключевые темы:* Core Concepts (Unary, Server streaming, Client streaming, Bi-directional streaming).
+- **[Официальная документация Protocol Buffers (protobuf.dev)](https://protobuf.dev/overview/)**
+  - *Ключевые темы:* Синтаксис `proto3`, скалярные типы данных, сообщения (`message`), сервисы (`service`), нумерация полей.
+
+2 hour
 
 Недели 7-11 (01.09 - 05.10) | Реляционные БД & SQL — PostgreSQL:
  * [ ] Освоить синтаксис: SELECT, WHERE, GROUP BY, HAVING, ORDER BY, LIMIT / OFFSET.
