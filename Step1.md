@@ -145,15 +145,21 @@
 - **[Тренажер secret_trainer на GitHub](https://github.com/search?q=secret_trainer+grpc)** — репозитории с упражнениями по тестированию gRPC.
 
 10.08.2026
+
 1 hour
-## 1. gRPC, Protocol Buffers & отличие от REST
+gRPC, Protocol Buffers & отличие от REST
 
-- **[Официальная документация gRPC (grpc.io)](https://grpc.io/docs/what-is-grpc/introduction/)**
-  - *Ключевые темы:* Core Concepts (Unary, Server streaming, Client streaming, Bi-directional streaming).
-- **[Официальная документация Protocol Buffers (protobuf.dev)](https://protobuf.dev/overview/)**
-  - *Ключевые темы:* Синтаксис `proto3`, скалярные типы данных, сообщения (`message`), сервисы (`service`), нумерация полей.
+- [Официальная документация gRPC (grpc.io)](https://grpc.io/docs/what-is-grpc/introduction/)
+  - Ключевые темы: Core Concepts (Unary, Server streaming, Client streaming, Bi-directional streaming).
+- [Официальная документация Protocol Buffers (protobuf.dev)](https://protobuf.dev/overview/)
+  - Ключевые темы: Синтаксис `proto3`, скалярные типы данных, сообщения (`message`), сервисы (`service`), нумерация полей.
 
-2 hour
+11.08.2026
+
+1 hour
+
+- [Официальная документация Protocol Buffers (protobuf.dev)](https://protobuf.dev/overview/)
+  - Ключевые темы: Синтаксис `proto3`, скалярные типы данных, сообщения (`message`), сервисы (`service`), нумерация полей.
 
 Недели 7-11 (01.09 - 05.10) | Реляционные БД & SQL — PostgreSQL:
  * [ ] Освоить синтаксис: SELECT, WHERE, GROUP BY, HAVING, ORDER BY, LIMIT / OFFSET.
