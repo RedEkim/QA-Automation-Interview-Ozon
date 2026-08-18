@@ -177,7 +177,7 @@ gRPC, Protocol Buffers & отличие от REST
 18.08.2026
 1 hour
 - **[Habr: «REST vs gRPC»](https://habr.com/ru/articles/859936/)**
-- **[GitHub: alex/what-happens-when (Русский перевод)](https://github.com/mkalygin/what-happens-when-RU)**
+- **[GitHub: alex/what-happens-when](https://github.com/alex/what-happens-when)**
   - *Детальный алгоритм:*
     1. **DNS:** Кэш браузера $\rightarrow$ ОС $\rightarrow$ `/etc/hosts` $\rightarrow$ Резолвер провайдера $\rightarrow$ Корневые DNS-серверы.
     2. **TCP:** Трехэтапное рукопожатие (3-way handshake: `SYN` $\rightarrow$ `SYN-ACK` $\rightarrow$ `ACK`).
