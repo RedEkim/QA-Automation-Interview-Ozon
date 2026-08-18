@@ -155,7 +155,7 @@ gRPC, Protocol Buffers & отличие от REST
   - Ключевые темы: Синтаксис `proto3`, скалярные типы данных, сообщения (`message`), сервисы (`service`), нумерация полей.
 
 11.08.2026
-
+- **[Habr: REST vs gRPC. Межсервисная интеграция для начинающих](https://habr.com/ru/articles/859936/)**
 1 hour
 
 - [Официальная документация Protocol Buffers (protobuf.dev)](https://protobuf.dev/overview/)
@@ -173,6 +173,10 @@ gRPC, Protocol Buffers & отличие от REST
 - **[Habr: «Как тестировать не-REST бэкенд (gRPC)»](https://habr.com/ru/companies/qiwi/articles/753778/)**
   - Практический гайд от QIWI: разбор `.proto`-файлов, отличие gRPC от REST с точки зрения QA, нюансы тестирования.
   - скачивание репо, погонял запросы в postman
+
+18.08.2026
+1 hour
+
 
 Недели 7-11 (01.09 - 05.10) | Реляционные БД & SQL — PostgreSQL:
  * [ ] Освоить синтаксис: SELECT, WHERE, GROUP BY, HAVING, ORDER BY, LIMIT / OFFSET.
