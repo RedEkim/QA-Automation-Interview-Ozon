@@ -192,6 +192,8 @@ gRPC, Protocol Buffers & отличие от REST
     2. **TCP:** Трехэтапное рукопожатие (3-way handshake: `SYN` $\rightarrow$ `SYN-ACK` $\rightarrow$ `ACK`).
     3. **TLS/SSL:** Рукопожатие безопасности (обмен сертификатами, ключами, шифрование).
     4. **HTTP & DOM:** Запрос/ответ HTTP, парсинг HTML, построение DOM, CSSOM, Render Tree, Layout, Paint.
+- **«Сети для самых маленьких»**
+  - Понятный разбор стека TCP/IP и транспортного уровня.
 
 Недели 7-11 (01.09 - 05.10) | Реляционные БД & SQL — PostgreSQL:
  * [ ] Освоить синтаксис: SELECT, WHERE, GROUP BY, HAVING, ORDER BY, LIMIT / OFFSET.
