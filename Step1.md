@@ -194,6 +194,9 @@ gRPC, Protocol Buffers & отличие от REST
     4. **HTTP & DOM:** Запрос/ответ HTTP, парсинг HTML, построение DOM, CSSOM, Render Tree, Layout, Paint.
 - **«Сети для самых маленьких»**
   - Понятный разбор стека TCP/IP и транспортного уровня.
+ 
+2 hour
+- Понятный разбор стека TCP/IP и транспортного уровня. (youtube, book)
 
 Недели 7-11 (01.09 - 05.10) | Реляционные БД & SQL — PostgreSQL:
  * [ ] Освоить синтаксис: SELECT, WHERE, GROUP BY, HAVING, ORDER BY, LIMIT / OFFSET.
