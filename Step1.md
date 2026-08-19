@@ -184,6 +184,14 @@ gRPC, Protocol Buffers & отличие от REST
     3. **TLS/SSL:** Рукопожатие безопасности (обмен сертификатами, ключами, шифрование).
     4. **HTTP & DOM:** Запрос/ответ HTTP, парсинг HTML, построение DOM, CSSOM, Render Tree, Layout, Paint.
 
+19.08.2026
+1 hour
+- **[GitHub: alex/what-happens-when](https://github.com/alex/what-happens-when)**
+  - *Детальный алгоритм:*
+    1. **DNS:** Кэш браузера $\rightarrow$ ОС $\rightarrow$ `/etc/hosts` $\rightarrow$ Резолвер провайдера $\rightarrow$ Корневые DNS-серверы.
+    2. **TCP:** Трехэтапное рукопожатие (3-way handshake: `SYN` $\rightarrow$ `SYN-ACK` $\rightarrow$ `ACK`).
+    3. **TLS/SSL:** Рукопожатие безопасности (обмен сертификатами, ключами, шифрование).
+    4. **HTTP & DOM:** Запрос/ответ HTTP, парсинг HTML, построение DOM, CSSOM, Render Tree, Layout, Paint.
 
 Недели 7-11 (01.09 - 05.10) | Реляционные БД & SQL — PostgreSQL:
  * [ ] Освоить синтаксис: SELECT, WHERE, GROUP BY, HAVING, ORDER BY, LIMIT / OFFSET.
