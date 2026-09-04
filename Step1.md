@@ -240,7 +240,11 @@ gRPC, Protocol Buffers & отличие от REST
 - [Yandex practicum] Базовый SQL
   <img width="2000" height="1325" alt="image" src="https://github.com/user-attachments/assets/ed9af2c2-3e71-431e-aad1-d38a5080173b" />
 
-
+04.09.2026
+1 hour
+- [Yandex practicum] Базовый SQL
+  - Изменение типов данных
+  - Оператор WHERE. Операторы сравнения
 Недели 12-14 (06.10 - 25.10) | NoSQL & Кэширование — Redis:
  * [ ] Понять назначение In-Memory БД и концепцию кэширования.
  * [ ] Изучить базовые структуры данных Redis (String, Hash, List, Set, Sorted Set) и параметр TTL.
